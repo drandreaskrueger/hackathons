@@ -36,7 +36,7 @@ Oh yes, patience - I have now waited approx 1 hour, is that perhaps not long eno
 
 **How would I know that?**
 
-The [dashboard](https://gitcoin.co/dashboard) still has the "Submit work" button enabled for ALL of my challenges, as if I have to still submit my work.
+The [dashboard](https://gitcoin.co/dashboard) still has the "Submit work" button enabled for my challenges "Bounties in Progress", *as if I still have to* submit my work.
 
 But then when trying that (again), the same error message again:
 
@@ -50,11 +50,15 @@ Which in this case now is not only not helpful, but really ... wrong.
 
 That looks as if I HAD submitted my work? Good.
 
+
 #### Suggestions:
 
-Show an accurate error message. Show a correct error message. Show a helpful error message.   
+Show an accurate error message.   
+Show a correct error message.  
+Show a helpful error message.  
+Not only in the console, no.    
 
-What about using the section on the [dashboard](https://gitcoin.co/dashboard) which right now says "0 Work Submitted", and "You don't have any submission awaiting payment" 
+What about using the section on the [dashboard](https://gitcoin.co/dashboard) which right now says "Work Submitted", and "You don't have any submission awaiting payment" 
 
 What if you let it instead express something like: "You have submitted 2 pieces of work". 
 
@@ -75,6 +79,11 @@ Idea: Explain it with a sentence "this is the dashboard, here you can NOT see bl
 Or: Better completely disable the "dashboard"?
 
 
+
 ### perhaps it's me who is the problem here?
 
 Then please explain where my conceptual misunderstanding is. Thanks.
+
+One more thing: (Why) Do I have to press "Stop work", after having submitted my work?
+
+  
