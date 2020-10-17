@@ -10,9 +10,9 @@ submission screenshot:
 
 result: **"Unable to fulfill bounty. Please try again later"**
 
-emotion: *anger*, *doubts*: why am I wasting my time with this at all?
+emotion: *sadness*, *doubts*: why am I wasting my time with this at all?
 
-
+feedback: See [hackathon-gitcoin-bugs](../README.md).
 
 ---
 
