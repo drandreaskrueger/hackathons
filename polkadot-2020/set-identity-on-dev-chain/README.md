@@ -8,6 +8,12 @@ submission screenshot:
 
 ![identity-dev-chain.png](identity-dev-chain.png)
 
+result: **"Unable to fulfill bounty. Please try again later"**
+
+emotion: *anger*, *doubts*: why am I wasting my time with this at all?
+
+
+
 ---
 
 steps:
