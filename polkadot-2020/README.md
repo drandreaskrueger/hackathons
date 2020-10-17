@@ -8,7 +8,7 @@
 
 
 ## polkadot
-* browser extension: https://github.com/polkadot-js/extension#installation --> https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd
+* browser extension: [github repo](https://github.com/polkadot-js/extension#installation) --> [chrome webstore](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)
   * create account
 * https://polkadot.js.org/apps/#/accounts --> Polkadot, Kusama
   * see both addresses:  DOT, KSM
