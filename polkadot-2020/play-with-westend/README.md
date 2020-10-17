@@ -6,5 +6,7 @@ submission: https://westend.subscan.io/extrinsic/0x5bb788832f753648154f8064a67da
 
 result: **"Unable to fulfill bounty. Please try again later"**
 
-emotion: sadness, anger?
+emotion: sadness
+
+feedback: See [gitcoin-bugs](../README.md).
  
