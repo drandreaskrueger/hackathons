@@ -16,5 +16,5 @@
    
 ## polkadot hackathon / gitcoin - BUGS
 
-See [gitcoin-bugs.md](gitcoin-bugs.md)
+See [gitcoin-hackthon-bugs.md](gitcoin-bugs.md)
 
