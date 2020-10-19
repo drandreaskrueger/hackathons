@@ -20,6 +20,6 @@ Task description: https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polka
 
 ### disk space needed
 
-approx 2.2G initially ... right now 3.7G
+initially synced approx: 2.2G  ... then 1.5 days later: 3.7G ... after kill and restart: 1.8G
 
 
